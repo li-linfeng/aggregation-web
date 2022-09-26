@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_18.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/page/outline/outline_bean.dart","../../../../../../fvm/versions/3.3.2/packages/flutter/lib/src/widgets/value_listenable_builder.dart","../../../../../../fvm/versions/3.3.2/packages/flutter/lib/src/widgets/scroll_view.dart","../../../../../../fvm/versions/3.3.2/packages/flutter/lib/src/widgets/sliver.dart","../../../../../../fvm/versions/3.3.2/packages/flutter/lib/src/foundation/assertions.dart","../../../../../../fvm/versions/3.3.2/packages/flutter/lib/src/widgets/basic.dart","../../../../../../fvm/versions/3.3.2/packages/flutter/lib/src/widgets/automatic_keep_alive.dart","../../../../../../fvm/versions/3.3.2/packages/flutter/lib/src/widgets/framework.dart"],
+  "names": ["Pagination.fromJson","ValueListenableBuilder","ListView.builder","BoxScrollView","Meta.toJson","Pagination.toJson","SliverChildBuilderDelegate.findIndexByKey","SliverChildBuilderDelegate.build","_createErrorWidget","SliverChildBuilderDelegate.estimatedChildCount","SliverChildBuilderDelegate.shouldRebuild","ValueListenableBuilder.createState","State","_ValueListenableBuilderState.initState","_ValueListenableBuilderState.didUpdateWidget","_ValueListenableBuilderState.dispose","_ValueListenableBuilderState._valueChanged","_ValueListenableBuilderState.build","_ValueListenableBuilderState._valueChanged.<anonymous function>","","_ValueListenableBuilderState","_debugLifecycleState","widget","value"],
+  "mappings": "A;;;EA6FEA;kCAQQA;MAAmDA,wBAC9CA,wBACAA,wBACEA,2BACIA,+BACDA,6BACbA;K;;;;;;;;;;;;;;;;;;;MCSCC;;;;IAMsBA,C;;;;;;;;;;;;;;;;;;;oBCq+B5BC;MAAgBA;;MAAhBA,WA3+B8IC;MA2+B9ID,sBC7vBMA,6FD+vBEA,sEAiBAA,uBACAA,8CAEAA,eAtBRA;IAuCMA,C;;;;;;;;;;;;EFrjC2BE;YAAZA;MAAYA,6DACbA,yDACfA;K;;;YA0BgBC;MACNA;MADkBA,6DAClBA,sBACAA,yBACGA,+BACIA,kCACDA,0CAChBA;K;;;oBGyVAC;MAEDA,WAWJA;K;WAIQC;MAAuCA;MAE7CA;0BAAiDA;;QAAjDA;;QACEA,YAyBJA;MC3GMC;;QDsFaD;;QAP4BA;QAQ3CA;QCvFEC,8EDu/CKD;QAEEA;QACMA;;MAh6CjBA;QACEA,YAgBJA;MAdyBA;QAAoCA;UAAGA;QAxQ1DA;;QAqRqBA;MAXQA;MEk7L7BA;MF/6L8CA;MAChDA;QEojNEA;MF/iN2DA;MG1d3DA,iCHuvBAA;MA3RJA,OEykNIA,8BFxkNNA;K;2BAGSE;MAAuBA,sBAAUA;K;mBAGrCC;MAAmEA,WAAIA;K;;EFtWxEC;iBAHkBA;MAAiBA,2CM6vBgBC,oBN1vBnDD,oDAHoEA;K;;;eAOnEE;MAAYA;MACTA;gBM8uBQA,QAAOA;MN7uBUA,KAL1BA;MAMEA,KM4uBOA,QAAOA,kCN5uBcA;IACrCA,C;qBAGKC;MAAqDA;MAClDA;oBACQA;sBMsuBAA,QAAOA;QNruBsBA;QAA/BA;kBMquBEA,QAAOA;QNpuBYA,KAd5BA;QAeIA,KMmuBKA,QAAOA;;INjuBvBA,C;aAGKC;MACIA,IM6tBOA,QAAOA,qCN7tBiBA;MAChCA;IACRA,C;mBAEKC;MACHA,gBAASA;IACXA,C;WAGOC;;iBMotBSA;QAAOA;eNlvBhBA;;MA+BLA,OAAcA,oCAChBA;K;;;;UANWC;mBAAKA;eMwtBAA,QAAOA;MNxtBwBA,EA1BxCA;IA0BgDA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "6WAqG6DmB4C;wrDE+hCtDAAA5gBCAmD,A;sBAogBkBA6F;ovCCtpBZXAA25CwBWkC,A;+LA35CxBXAA25CwBW8E,8K;+IAt5CGAsD;qCAE3BAgD;yGAKEAmE;kBAIFAiC;AAA0BAoD;OAE7BA8B;iJFlW8BAwD;sDAAAAAAGnCAAM0vBmDEoB,A,oD;iKNpvB7CCgC;KAARCkE;KACAD0C;sNAMiCAoC;sFAEvBAkC;KAARCoE;KACAD2D;+BAMFA6C;gPAUOA4C;AAAwBC8F;4OALTDgC;EAARCgE;"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_17.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../../fvm/versions/3.3.2/packages/flutter/lib/src/widgets/basic.dart"],
+  "names": ["Expanded","Flexible.applyParentData"],
+  "mappings": "A;;;EA8+JQA;;mCAIkBA,wBAJlBA;IAIwBA,C;;;;;;;;;;;;;;;;;;;;;qBA/EzBC;;yBAE4CA;QAAUA;MAAEA;eAGpCA;YAARA;UACFA;QACXA;;QAJGA;eAOiBA;YAAPA;UACFA;QAJXA;;MAQFA;QACkDA;;UAE9CA;;IAGNA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_56.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../../fvm/versions/3.3.2/packages/flutter/lib/src/painting/border_radius.dart"],
+  "names": ["BorderRadius.horizontal"],
+  "mappings": "A;;;EA+TQA;;;IAQLA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": ""
+  }
+}

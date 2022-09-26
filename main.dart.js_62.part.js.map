@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_62.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/cache/sp/sp_manager.dart","../../../../../../.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.15/lib/shared_preferences.dart"],
+  "names": ["SpManager.setString","setString"],
+  "mappings": "A;;;;uBA0FcA;gBAEVA;;QCuBEA,yBDvB4BA;IAChCA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "4eA4FICyB;"
+  }
+}

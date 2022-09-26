@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_83.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/page/empty/empty_page.dart","../../../lib/page/empty/empty_controller.dart","../../../../../../.pub-cache/hosted/pub.dartlang.org/get-4.6.5/lib/get_instance/src/get_instance.dart","../../../../../../.pub-cache/hosted/pub.dartlang.org/get-4.6.5/lib/get_instance/src/extension_instance.dart","../../../lib/page/empty/empty_model.dart","../../../../../../.pub-cache/hosted/pub.dartlang.org/get-4.6.5/lib/get_state_manager/src/simple/list_notifier.dart","../../../../../../.pub-cache/hosted/pub.dartlang.org/get-4.6.5/lib/get_instance/src/lifecycle.dart","../../../../../../fvm/versions/3.3.2/bin/cache/flutter_web_sdk/lib/ui/geometry.dart","../../../lib/base/base_page.dart","../../../../../../fvm/versions/3.3.2/packages/flutter/lib/src/painting/box_decoration.dart","../../../../../../fvm/versions/3.3.2/packages/flutter/lib/src/painting/edge_insets.dart","../../../lib/base/base_controller.dart","../../../../../../.pub-cache/hosted/pub.dartlang.org/get-4.6.5/lib/get_state_manager/src/simple/get_controllers.dart","../../../../../../.pub-cache/hosted/pub.dartlang.org/get-4.6.5/lib/get_state_manager/src/rx_flutter/rx_disposable.dart"],
+  "names": ["EmptyPage","EmptyController.toMarketPage","Inst.find","EmptyController.rootController","EmptyPage.putController","EmptyController.model","_GetxController&DisposableInterface&ListenableMixin&ListNotifierMixin","GetLifeCycleBase.onStart","GetLifeCycleBase.onDelete","GetLifeCycle","EmptyPage.body","CommonPage.controller","rootController","Inst|find","","model","EmptyController","BaseController","_BaseController&GetxController&WidgetsBindingObserver&LifecycleControl","_BaseController&GetxController&WidgetsBindingObserver","GetxController","_updaters","_updatersGroupIds","_GetxController&DisposableInterface&ListenableMixin","DisposableInterface","onStart","_GetLifeCycle&Object&GetLifeCycleBase","onDelete","circular","controller","symmetric"],
+  "mappings": "A;;;;;;;;;;;MAWQA;;;;;IAAuCA,C;;;;;;;;;;;;;;kBCCxCC;MAFgCA;gBCaZC;;2CAAuBA;MC6CpBC,+CFvDXF;IACjBA,C;;;;;;;mBDAKG;MACHA;;MCTEA,2BGJAC,oBCmBgDC,8DAGhDA,uECfJC,iCAAAC;MAyFEC;MNnFIL;IACNA,C;YAGWM;MAMsBA;qDOiT3BA;aP3SEA,kKAESA,4BACWA,8FAEOA;aAG3BA;MQzBYA;YNSKR;;QFHhBQ,mCEGuCR;MFH9CQ,2BAQSA,UAEKA,yBAURA,yCG4BoBC,0BKtDJD,+CR6BQA,yEAnBZA,iFAKuBA,uDSyDrCA,qBT9DcA,2DS8DdA,4BCmTAA,sCVxVNA;K",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "4qCCaIY8BAHuCCAE0DbCkH,+C,A;6PHrDlBA2BCPSCAAAADoB,A,AAFfAAUyBSAAAAAAAAAAAACtBAAAPYuCO8D,AAGhDCuE,AOfSRAAAAAACGAAAPqFbAAArEgBWAAAAXiC,A,AAUCaAAAAbsD,A,A,A,A,A,A,A,A,A,A,AA2DjBAAL3FIAmC,A,A;2JDmBsDckC;ybAkBrCC0BQ7BGhBALsDICyD,A,A;mCHzBPeAQ7BGhBALsDICsB,A,A;uGHzBPeAQ7BGhB0B,+C;iNRSRCqB;2DAAAA4B;AAIQgBsC;"
+  }
+}

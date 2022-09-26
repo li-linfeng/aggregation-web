@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_61.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/ext/string_ext.dart","org-dartlang-sdk:///lib/_internal/js_runtime/lib/js_string.dart","org-dartlang-sdk:///lib/_internal/js_runtime/lib/regexp_helper.dart"],
+  "names": ["StringExtention.isMobile","StringExtention.isNullOrEmpty","StringExtention|get#isNullOrEmpty","isEmpty","hasMatch"],
+  "mappings": "A;;;;gCAgBWA;MACPA;eC0ZkBC;QD1ZCD,YAIrBA;MAHeA;MAEbA,UEmGgCA,0BFlGlCA;K",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "+bAiBQEAAdoCCuB,A;2JAiBjCC0B;"
+  }
+}

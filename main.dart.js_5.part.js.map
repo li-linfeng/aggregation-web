@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_5.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/page/menu/menu_bean.dart","../../../lib/page/menu/menu_controller.dart","org-dartlang-sdk:///lib/internal/iterable.dart","org-dartlang-sdk:///lib/_internal/js_runtime/lib/js_array.dart"],
+  "names": ["CollectionList.fromJson","CollectionFolder.fromJson","Network.fetchCollectionList","CollectionList.toJson","JSArray.map","CollectionFolder.toJson","MenuItem.toJson","CollectionList.fromJson.<anonymous function>","CollectionList.toJson.<anonymous function>","MenuItem.fromJson","CollectionFolder.fromJson.<anonymous function>","CollectionFolder.toJson.<anonymous function>","Network|fetchCollectionList.<anonymous function>","","map","fromJson"],
+  "mappings": "A;;;EAKEA;0CAIQA;MAAuDA,4BACjDA,uCACCA,gFACJA,YACNA;K;8CAoBGC;MACJA,OAPJA,uBAQUA,qBACEA,0BAEFA,0CAA8BA,4EAA6BA,YAChEA;K;;;;;;;;;;;;;;;;;;;;;;;;;;;+BCVQC;MAA4BA;;;yEAA5BA;QAA4BA;;;;;;;;;cACvCA;mCAAMA,qIAANA;;;;cAOFA;;;MARyCA;IAQzCA,C;;;;;;;;;;;;YDtBqBC;MAAYA,aACjBA;MADiBA,yDE0YjCC,6BFzY2BD,uCGuTdA,yBDkFbC,8EFxYKD;K;;;YAwBgBE;MAAYA,aAGdA;MAHcA,yDACrBA,iBACEA,oBE8WdD,6BF7WiCC,yCG2RpBA,yBDkFbD,8EF5WKC;K;;;YAwBgBC;MACTA;MADqBA,0DACrBA,kBACEA,wBACIA,8BACMA,sCACnBA;K;;;EA/DkCC;UAAxBA;MAAOA,sDAA4BA;K;;;EAKhBC;UAAPA;MAAOA,mBAAUA;K;;;EAuC5CC;UAjBwCC;MAAOA,sBAyBrCA,kBACEA,uBACAA,2BACEA,6BA5BqDA;K;;;EAM3BC;UAAPA;MAAOA,mBAAUA;K;;;;UCZnCC;mBACTA;MAAyCA,EAAzCA,MAAMA,mEAAkDA;MACxDA;IACDA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "6WASiEaoD;2PAyB3DAuB;kgFAlBYCAGuTHD6B,A;uCHvTGCyBGuTHD8E,A;oMH3RMCAG2RND6B,A;yCH3RMCyBG2RND8E,A;muBHjS2CEAAwBCF6E,A;kCAxBDEiG;"
+  }
+}

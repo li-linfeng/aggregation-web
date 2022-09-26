@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_49.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/base/base_controller.dart","../../../../../../.pub-cache/hosted/pub.dartlang.org/get-4.6.5/lib/get_state_manager/src/rx_flutter/rx_notifier.dart"],
+  "names": ["BaseStatusController.toLoading","RxStatus.loading","BaseStatusController.toEmpty","RxStatus.empty","BaseStatusController.toError","RxStatus.error","BaseStatusController.toContent","RxStatus.success","BaseStatusController.onErrorRetry","changeStatus","loading","_","empty","error","success"],
+  "mappings": "A;;;;;;;;;;;eA8EOA;MAHHA,2BC2FFC;IDtFAD,C;aAEKE;MAPHA,2BC2FFC;IDlFAD,C;aAEKE;MAXHA,2BC2FFC;ID9EAD,C;eAEKE;MAfHA,2BC2FFC;ID1EAD,C;kBAEKE;IAAgBA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "qtBA+EIS2B;AAA8BCACiGdC+C,A;2BD7FhBF2B;AAA8BGAC6GdD+C,A;2BDzGhBF2B;AAA8BIACqGdF+C,A;6BDjGhBF2B;AAA8BKAC6FdHgD,A;"
+  }
+}
